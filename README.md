@@ -21,6 +21,8 @@
     - 另一種解法 請參閱 [如何在Word中快速顯示或隱藏所有隱藏的文本？](https://zh-tw.extendoffice.com/documents/word/906-word-show-hide-hidden-text.html) 
   - 【自行完成】{隱寫術101::STEG2_Secret in PDF}
 
+## [HITCON CTF 2017](https://ctf2017.hitcon.org/)
+
 # 網站安全初體驗 == > 請完成【Web101】的題目
   - Web101::Web-1:source code(隱藏在註解裡的FLAG)[[YOUTUBE教學錄影]](https://youtu.be/2GWc9hsw794)
   - Web101::Web-2:Easy_Robots.txt(Robot.txt的奧秘1)[[YOUTUBE教學錄影]](https://youtu.be/Ifi9VHGBhsY)
@@ -56,6 +58,17 @@
 ## 後續研讀建議 [高中職資安體驗營](https://www.facebook.com/people/%E9%AB%98%E4%B8%AD%E8%81%B7%E7%94%9F%E8%B3%87%E5%AE%89%E7%A0%94%E7%BF%92%E7%87%9F/100065584200879/)
 - 關注臉書活動公告|參與更多資安學習|持續強化你的資安戰鬥力
 - 獻給全台灣高中職學生的 SecurityFocus Online線上課程
+  - A1_MyFirstSecurity資安入門的第一堂課--今天尚可的內容
+  - [A2_Linux資安技術入門](https://github.com/MyFirstSecurity2020/20230302)
+    - 本次課程協助學生使用虛擬化技術(在Windows作業系統上安裝Virtualbox,然後匯入linux)學習linux
+    - 預先作業自建實體教學環境:本課程使用虛擬機匯入Kali Linux進行教學
+      - 步驟1:在你的電腦下載 virtual box 並安裝完成 [Virtualbox安裝:YOUTUBE影片]()
+      - 步驟2:點選資料下載點, 下載這些龐大的系統
+        - 本課程會用到的Kali Linux(比較舊的版本2019) [下載點]()
+        - Python會用到的Ubuntu Linux 18.04 LTS(已安裝好pwntools) [下載點]()
+      - 步驟3:匯入你要用的linux [YOUTUBE教學錄影]()
+    - 學生預先作業:請學生預先申請你的 github ~ 請上網Google 一下申請辦法 
+  - [A3_Python程式與資安應用入門](https://github.com/MyFirstSecurity2020/SF2023A3) 
 - 每年暑假舉辦
   - SUMMER CAMP 程式安全分析夏令營
   - Taiwan HolyYoung Training
