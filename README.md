@@ -12,7 +12,7 @@
 
 # 請依照底下順序完成
 - [[開場白與課程說明]](./0.md) 👉(先點選看說明)👉[[YOUTUBE教學錄影]](https://youtu.be/e_7K2TneejU)
-- 記得要下課後還要填寫 回饋問卷 https://forms.gle/gAP8ZtjautZZbZxBA
+
 
 # CTF 入門:透過參與CTF搶旗大賽學習資安實務
   - CTF搶旗大賽 [[線上教材]](./1/1.md) [[YOUTUBE教學錄影]](https://youtu.be/Bcxyx3lJG8w)
@@ -54,6 +54,8 @@
   - 【自行完成】{Crypto101::CRY8_ROT47}  ~上網學學ROT47的運作原理 歐
 
 ## 記得~ 下課後 ~ 要填寫 回饋問卷 
+回饋表單(第一班)：https://forms.gle/4iaot8rbkVStL3zb7
+回饋表單(第二班)：https://forms.gle/6iZYDWseSgY5eezJA
 
 ## 參加2024.5.18 
 ![GENAI.png](GENAI.png)
