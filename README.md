@@ -54,8 +54,8 @@
   - 【自行完成】{Crypto101::CRY8_ROT47}  ~上網學學ROT47的運作原理 歐
 
 ## 記得~ 下課後 ~ 要填寫 回饋問卷 
-回饋表單(第一班)：https://forms.gle/4iaot8rbkVStL3zb7
-回饋表單(第二班)：https://forms.gle/6iZYDWseSgY5eezJA
+
+回饋表單：https://forms.gle/6iZYDWseSgY5eezJA
 
 ## 參加2024.5.18 
 ![GENAI.png](GENAI.png)
