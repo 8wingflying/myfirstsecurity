@@ -74,7 +74,7 @@
 ## 後續研讀建議 [高中職資安體驗營](https://www.facebook.com/people/%E9%AB%98%E4%B8%AD%E8%81%B7%E7%94%9F%E8%B3%87%E5%AE%89%E7%A0%94%E7%BF%92%E7%87%9F/100065584200879/)
 - 關注臉書活動公告|參與更多資安學習|持續強化你的資安戰鬥力
 - 獻給全台灣高中職學生的 SecurityFocus Online線上課程
-  - A1_MyFirstSecurity資安入門的第一堂課--今天尚可的內容
+  - A1_MyFirstSecurity資安入門的第一堂課--今天上課的內容
   - [A2_Linux資安技術入門](https://github.com/MyFirstSecurity2020/20230302)
     - 本次課程協助學生使用虛擬化技術(在Windows作業系統上安裝Virtualbox,然後匯入linux)學習linux
     - 預先作業自建實體教學環境:本課程使用虛擬機匯入Kali Linux進行教學
