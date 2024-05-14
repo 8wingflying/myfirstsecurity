@@ -33,7 +33,7 @@
   - BASE64原理說明 [[中文Wiki的說明]](https://zh.wikipedia.org/wiki/Base64) [[YOUYUBE教學錄影]](https://youtu.be/lFUb0cmHo1c)
   - 【自行完成】Base32原理說明
 
-## 古典密碼學之破密分析 == > 請完成【Crypto101】的題目
+# 古典密碼學之破密分析 == > 請完成【Crypto101】的題目
   - 凱薩密碼 與【暴力破解法】{Crypto101::CRY1}  [[YOUYUBE教學錄影]](https://youtu.be/GY34Ewh6EoQ)
   - 【自行完成】{Crypto101::CRY2_凱撒密碼part2}
   - 【自行完成】{Crypto101::CRY3_ROT 13} 
@@ -46,5 +46,4 @@
   -  Crypto101::CRY7_Rail Fence Cipher [[YOUYUBE教學錄影]](https://youtu.be/DLIf0kpByYs)
   - 【自行完成】{Crypto101::CRY8_ROT47}  ~上網學學ROT47的運作原理 歐
 
-## 你可以自己決定何時下課! 
 ## 記得~ 下課後 ~ 要填寫 回饋問卷 
