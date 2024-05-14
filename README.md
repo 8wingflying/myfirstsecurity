@@ -8,7 +8,7 @@
 
 # 上課所使用的平台  [[CTF 平台]]()
 
-![資安宣言](資安宣言.gif)
+![資安宣言](../pics/資安宣言.gif)
 
 # 請依照底下順序完成
 - [[開場白與課程說明]](./0.md) 👉(先點選看說明)👉[[YOUTUBE教學錄影]](https://youtu.be/e_7K2TneejU)
@@ -24,6 +24,9 @@
 ## [HITCON CTF 2017](https://ctf2017.hitcon.org/)
 
 # 網站安全初體驗 == > 請完成【Web101】的題目
+
+![Web101](../pics/CTF_web101.JPG)
+
   - Web101::Web-1:source code(隱藏在註解裡的FLAG)[[YOUTUBE教學錄影]](https://youtu.be/2GWc9hsw794)
   - Web101::Web-2:Easy_Robots.txt(Robot.txt的奧秘1)[[YOUTUBE教學錄影]](https://youtu.be/Ifi9VHGBhsY)
   - 【自行完成】Web101::web-3:Robots.txt(Robot.txt的奧秘2)[無提供解答][完成編碼與解碼問題時再回來解此題]
@@ -31,6 +34,9 @@
   - Web101::web-5:HTTP method (HTTP method的奧義)[[線上解答]](./1/web-5解答.md)
 
 # 編碼與解碼 == >   請完成【編碼101】的題目
+
+![編碼與解碼](../pics/CTF_decode.JPG)
+
   - Ascii 編碼與解碼 [線上教材](./1/3_編碼與解碼.md) {編碼101:Ascii}[[YOUTUBE教學錄影]](https://youtu.be/fu2jgb4SN7U)
   - 【自行完成】{編碼101:Base64}
   - 【自行完成】{編碼101:Base32}
@@ -41,6 +47,8 @@
   - 【自行完成】Base32原理說明
 
 # 古典密碼學之破密分析 == > 請完成【Crypto101】的題目
+
+![古典密碼學之破密分析](../pics/CTF_LCryptoJPG.JPG)
   - 凱薩密碼 與【暴力破解法】{Crypto101::CRY1}  [[YOUYUBE教學錄影]](https://youtu.be/GY34Ewh6EoQ)
   - 【自行完成】{Crypto101::CRY2_凱撒密碼part2}
   - 【自行完成】{Crypto101::CRY3_ROT 13} 
