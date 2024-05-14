@@ -1,26 +1,29 @@
-# 本日上課課程 
-- 課程單元: MyFirstSecurity資安入門的第一堂課
+# MyFirstSecurity資安入門的第一堂課 
+- 講師: 崑山科技大學 資工系  雲端運算技資通安全研發中心 曾龍 主任
+  - GenAI 研發中心
+  - 
 - 請依照底下順序完成
 
+![資安宣言](資安宣言.gif)
+
 # [[開場白與課程說明]](./0.md) 👉(先點選看說明)👉[[YOUTUBE教學錄影]](https://youtu.be/e_7K2TneejU)
-- 記得要簽到簿(不要遲到) [點選去簽到](https://forms.gle/MwjTDomakPUsqHtu8)
 - 記得要下課後還要填寫 回饋問卷 https://forms.gle/gAP8ZtjautZZbZxBA
 
-## CTF 入門:透過參與CTF搶旗大賽學習資安實務
+# CTF 入門:透過參與CTF搶旗大賽學習資安實務
   - CTF搶旗大賽 [[線上教材]](./1/1.md) [[YOUTUBE教學錄影]](https://youtu.be/Bcxyx3lJG8w)
     - 點選本次上課使用的[[CTF 平台]](https://120.114.62.204) 註冊與登入CTF解題
   - 起手式---文件隱寫術之word隱身術{隱寫術101::STEG1} [[YOUTUBE教學錄影]](https://youtu.be/aeXnuZi3XOk)
     - 另一種解法 請參閱 [如何在Word中快速顯示或隱藏所有隱藏的文本？](https://zh-tw.extendoffice.com/documents/word/906-word-show-hide-hidden-text.html) 
   - 【自行完成】{隱寫術101::STEG2_Secret in PDF}
 
-## 網站安全初體驗 == > 請完成【Web101】的題目
+# 網站安全初體驗 == > 請完成【Web101】的題目
   - Web101::Web-1:source code(隱藏在註解裡的FLAG)[[YOUTUBE教學錄影]](https://youtu.be/2GWc9hsw794)
   - Web101::Web-2:Easy_Robots.txt(Robot.txt的奧秘1)[[YOUTUBE教學錄影]](https://youtu.be/Ifi9VHGBhsY)
   - 【自行完成】Web101::web-3:Robots.txt(Robot.txt的奧秘2)[無提供解答][完成編碼與解碼問題時再回來解此題]
   - Web101::web-4:Curl-1:URL redirection的破招 [[線上解答]](./1/web-4解答.md) [[YOUTUBE教學錄影]](https://youtu.be/Lwyp3tv66KQ)
   - Web101::web-5:HTTP method (HTTP method的奧義)[[線上解答]](./1/web-5解答.md)
 
-## 編碼與解碼 == >   請完成【編碼101】的題目
+# 編碼與解碼 == >   請完成【編碼101】的題目
   - Ascii 編碼與解碼 [線上教材](./1/3_編碼與解碼.md) {編碼101:Ascii}[[YOUTUBE教學錄影]](https://youtu.be/fu2jgb4SN7U)
   - 【自行完成】{編碼101:Base64}
   - 【自行完成】{編碼101:Base32}
