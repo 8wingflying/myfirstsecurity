@@ -71,7 +71,7 @@
 ## 報名網址
 ![20240518.png](20240518.png)
 
-## 後續研讀建議 [高中職資安體驗營](https://www.facebook.com/people/%E9%AB%98%E4%B8%AD%E8%81%B7%E7%94%9F%E8%B3%87%E5%AE%89%E7%A0%94%E7%BF%92%E7%87%9F/100065584200879/)
+## 後續研讀建議 ==> 活動都會公布在 [高中職資安體驗營](https://www.facebook.com/people/%E9%AB%98%E4%B8%AD%E8%81%B7%E7%94%9F%E8%B3%87%E5%AE%89%E7%A0%94%E7%BF%92%E7%87%9F/100065584200879/)
 - 關注臉書活動公告|參與更多資安學習|持續強化你的資安戰鬥力
 - 獻給全台灣高中職學生的 SecurityFocus Online線上課程
   - A1_MyFirstSecurity資安入門的第一堂課--今天上課的內容
@@ -87,6 +87,8 @@
   - [A3_Python程式與資安應用入門](https://github.com/MyFirstSecurity2020/SF2023A3) 
 - 每年暑假舉辦
   - SUMMER CAMP 程式安全分析夏令營
+    - 至少需取得高中職生任一活動的證書
+    - 已上過MyFirstProgSec(第一堂程式安全課) 的優先錄取
   - Taiwan HolyYoung Training
     - 現代密碼破密分析課程 
     - 網站安全分析課程
